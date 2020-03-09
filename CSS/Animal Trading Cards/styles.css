@@ -1,0 +1,46 @@
+body {
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+}
+
+#card {
+    box-shadow: 5px 10px GainsBoro;
+    border: 1px solid LightGray;
+    width: 310px;
+    padding: 10px;
+}
+
+h3 {
+    margin: 5px;
+    font-size: 1.5em;
+}
+
+img {
+    margin: 5px;
+    width: 300px;
+}
+
+#fact {
+    font-style: italic;
+}
+
+#infobox {
+    margin: 5px;
+    border: 1px solid LightGray;
+    width: 280px;
+    padding: 0 10px 10px 10px;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+span {
+    font-weight: bold;
+}
+
+#description {
+    text-align: justify;
+    text-justify: inter-word;
+}
